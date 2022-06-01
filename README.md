@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tangoro
 - 👀 I’m interested in data analytics and data science
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Machine learninf
+- 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me @tangoro
 
 <!---
